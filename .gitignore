@@ -1,3 +1,4 @@
+gitHeadInfo.gin
 *.aux
 *.bcf
 *.run.xml
@@ -29,7 +30,3 @@
 *.mtc
 *.mtc0
 *tikzDictionary
-cache/*.RData
-cache/*.rdb
-cache/*.rdx
-cache/*packages
